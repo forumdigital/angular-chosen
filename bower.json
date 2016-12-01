@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "jquery": "^2.0.3",
-    "chosen": "forumdigital/chosen#1.6.2.1",
+    "chosen": "forumdigital/chosen#v1.6.3",
     "angular": "^1.4.9"
   },
   "license": "MIT"
